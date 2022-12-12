@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "91146af8cb1a91e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a440f585f81730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b9309d84992fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sys_admin_note/01. Change_root_password.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfd79104f8650886",
+    "type": "split",
+    "children": [
+      {
+        "id": "d83ceaa31b5ec828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed74ad116e962c6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f3b7cbfbba12486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Show",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00e92d9e8f65f8e0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9752dbcd16df452c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae596ec8b39e898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b79bb45b02ac8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sys_admin_note/01. Change_root_password.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7602b86528ad9cfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sys_admin_note/01. Change_root_password.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02269b2827a2cf51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24e76c8b15e49e08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sys_admin_note/01. Change_root_password.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44b9309d84992fdb",
+  "lastOpenFiles": [
+    "sys_admin_note/02. Service_show.md",
+    "sys_admin_note/01. Change_root_password.md",
+    "2022-12-12.md",
+    "markdown_learn/download.jpeg",
+    "markdown_learn/markdown_note.md",
+    "README.md"
+  ]
+}

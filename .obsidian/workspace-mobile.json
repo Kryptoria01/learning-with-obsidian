@@ -11,8 +11,12 @@
             "id": "e9c0beec4d1669ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sys_admin_note/01. Change_root_password.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#git",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b8aeb5a6a526cc71",
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sys_admin_note/01. Change_root_password.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sys_admin_note/01. Change_root_password.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,16 +113,19 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sys_admin_note/01. Change_root_password.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "e9c0beec4d1669ad",
+  "active": "a3bc02ab429bc3af",
   "lastOpenFiles": [
-    "Git Learn.md",
+    "git/git_learn.md",
     "sys_admin_note/01. Change_root_password.md",
+    "Git Learn.md",
     "sys_admin_note/Untitled.md"
   ]
 }

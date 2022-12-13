@@ -11,12 +11,8 @@
             "id": "e9c0beec4d1669ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Learn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Git Learn.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Git Learn.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Git Learn.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -123,8 +115,8 @@
   },
   "active": "e9c0beec4d1669ad",
   "lastOpenFiles": [
-    "sys_admin_note/01. Change_root_password.md",
     "Git Learn.md",
+    "sys_admin_note/01. Change_root_password.md",
     "sys_admin_note/Untitled.md"
   ]
 }

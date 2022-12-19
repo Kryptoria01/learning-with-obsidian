@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sys_admin_note/06. config_journal.md",
+                "file": "git/git_learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sys_admin_note/06. config_journal.md",
+                "file": "git/git_learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sys_admin_note/06. config_journal.md",
+                "file": "git/git_learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sys_admin_note/06. config_journal.md"
+                "file": "git/git_learn.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "a09ef1080c4df83e",
   "lastOpenFiles": [
-    "sys_admin_note/03. service_show.md",
-    "sys_admin_note/sys_admin_note.md",
-    "sys_admin_note/01. change_root_password.md",
-    "sys_admin_note/04. create log rotate.md",
+    "sys_admin_note/06. config_journal.md",
     "sys_admin_note/05. network_up_down.md",
+    "sys_admin_note/01. change_root_password.md",
     "sys_admin_note/02. kill_user.md",
+    "sys_admin_note/03. service_show.md",
+    "sys_admin_note/04. create log rotate.md",
+    "sys_admin_note/sys_admin_note.md",
     "markdown_learn/markdown_note.md",
     "markdown_learn/download.jpeg",
-    "2022-12-12.md",
-    "README.md"
+    "2022-12-12.md"
   ]
 }
